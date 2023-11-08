@@ -1,7 +1,7 @@
 gs-data-ml
 ==============================
 
-gas sensor data preparation and feature extraction for machine learning
+gas sensor data preparation and feature extraction for machine learning using data prepared during my PhD study in CUHK
 
 Project Organization
 ------------
